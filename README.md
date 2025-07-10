@@ -1,4 +1,4 @@
-# SKILL EXTRACTION FROM RESUME USING CUSTOM ENTITY RECOGNITION
+## SKILL EXTRACTION FROM RESUME USING CUSTOM ENTITY RECOGNITION
 A cloud-based NLP project that automates the extraction of skills from resumes using a custom Named Entity Recognition (NER) model trained with Amazon Comprehend. This project simplifies resume parsing and speeds up talent screening by identifying key skills like programming languages, tools, and soft skills from unstructured text.
 
 
@@ -17,5 +17,5 @@ A cloud-based NLP project that automates the extraction of skills from resumes u
 - Uploaded all training and testing data to an Amazon S3 bucket
 
 #### DATASET USED
-Dataset - Resume Entities for NER (Kaggle)
-Dataset Preparation - Downloaded the JSON dataset from Kaggle
+- Dataset - Resume Entities for NER (Kaggle)
+- Dataset Preparation - Downloaded the JSON dataset from Kaggle
