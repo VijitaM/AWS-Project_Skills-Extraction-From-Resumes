@@ -2,7 +2,7 @@
 A cloud-based NLP project that automates the extraction of skills from resumes using a custom Named Entity Recognition (NER) model trained with Amazon Comprehend. This project simplifies resume parsing and speeds up talent screening by identifying key skills like programming languages, tools, and soft skills from unstructured text.
 
 
-#### Key Features
+#### KEY FEATURES
 - Trained a custom NER model to identify entities such as programming languages, tools, certifications, and soft skills
 - Utilized Amazon Comprehend and Amazon S3 for scalable and secure model training and data handling
 - Implemented IAM roles to manage access to S3 buckets and Comprehend services
